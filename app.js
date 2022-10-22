@@ -1,2 +1,6 @@
 console.log("Ok")
-const a;
+console.log("Ok2")
+console.log("Ok3")
+console.log("Ok4")
+console.log("Ok6")
+
